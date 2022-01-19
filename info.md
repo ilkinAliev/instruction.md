@@ -50,6 +50,10 @@ git checkout code_commit:
 Для создания новой ветки с именем branch_name:
 > git branch branch_name
 
+## Справка
+Чтобы вызвать справку по команде, допишите тег:
+> --help
+
 Переместиться к ветке с именем branch_name:
 > git checkout branch_name
 
